@@ -1,5 +1,5 @@
-# Manual Para Certificação Ágile & Scrum 
-Este documento tem por objetivo instruir os usuários do Scrum a se especializar no framework e obter certificação no Scrum. 
+<h1 align="center"> :scroll: Manual Para Certificação Ágile & Scrum  </h1> 
+<p align="center">Este documento tem por objetivo instruir os usuários do Scrum a se especializar no framework e obter certificação no Scrum. </p>
 
 
 # Sobre Autor :bowtie:
@@ -8,7 +8,9 @@ Este documento tem por objetivo instruir os usuários do Scrum a se especializar
 
 :mortar_board: Formado em Sistemas da Informação pela Universidade Potiguar (UNP) e Pós-graduado em Dispositivos Móveis pela UNP.
 
- Trabalho como Supervisor Assistente do Núcleo de Tecnologia da Informação e Comunicação na Justiça Federal no Rio Grande do Norte.
+:briefcase: Supervisor Assistente do Núcleo de Tecnologia da Informação e Comunicação na Justiça Federal no Rio Grande do Norte.
+
+Trabalho com metodologias ágeis em projetos de softwares desde 2016.
 
 **Certificações**
 
@@ -67,9 +69,9 @@ Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem
 	- Scrum Foundation Certification -SFPC
 	
 	
-## Extra
+## Extra :heavy_exclamation_mark:
 
-### Avaliação de Competência Linkedin (texte de habilidades profissionais)
+### Avaliação de Competência Linkedin (texte de habilidade profissional)
 
 O recurso Avaliações de competências do LinkedIn permite demonstrar seu conhecimento das competências que você adicionou ao seu perfil, concluindo avaliações específicas dessas competências.
 
@@ -102,3 +104,8 @@ Está é uma novidade do Linkedin e por enquanto, o recurso está disponível so
 Para mais detalhes [clique aqui](https://www.linkedin.com/help/linkedin/answer/99586/avaliacoes-de-competencias-do-linkedin?lang=pt).
 
 
+## Contribua com este documento :memo:
+
+Encontrou algum dado desatualizado, incorreto ou quer acrescentar novas referências?
+
+Crie uma new issue pelo link: https://github.com/jackson-roberio/scrum-certificate/issues/new
