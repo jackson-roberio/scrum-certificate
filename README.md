@@ -30,7 +30,7 @@ Scrum é um framework ...
 
 ## Material de Apoio :pencil:
 
-- [Guia Scrum/Scrum Guide](https://www.scrumguides.org/download.html)
+- [Guia Scrum/Scrum Guide](https://www.scrumguides.org/download.html) (ou através do link: [https://github.com/jackson-roberio/scrum-certificate/blob/dev/Scrum-Guide-2017-PT-BR.pdf](Scrum-Guide-2017-PT-BR.pdf) )
 
 - [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
@@ -66,7 +66,14 @@ Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem
  **Nela podemos encontrar as seguintes certificações Scrum:**
  
 	- Scrum Master Certification -SMPC
+	- Scrum Product Owner Certification - SPOPC
+	- Scrum Developer Certification - SDPC
 	- Scrum Foundation Certification -SFPC
+	- Scrum Advanced Certification - SAPC
+
+   Neste período de pandemia, a CertiProf decidiu oferecer de forma gratuita o exame _Scrum Foundation Professional Certificate - SFPC_, para realizar a prova, o candidato deve [ir para página da CertiProf](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-ptbr) e inserir o seguinte cupom: 
+    <p align="center"> **COVID19Support** </p>
+  A prova consiste em 40 perguntas de muitiplas escolhas, precisando o aluno realizar 60% (24 perguntas) ou mais de acertos, em uma hora. O exame pode ser realizado em Português, Espanhol ou Inglês. 
 	
 	
 ## Extra :heavy_exclamation_mark:
