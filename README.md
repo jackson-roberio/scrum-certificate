@@ -28,9 +28,50 @@ Trabalho com metodologias ágeis em projetos de softwares desde 2016.
 
 Scrum é um framework ...
 
+O Manifesto Ágil se baseia em **Doze(12) Princípios** , sendo eles:
+
+<h3 align="center">1</h3>
+<p align="center"><i>Nosso maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado;</i></>
+
+<h3 align="center">2</h3>
+<p align="center"><i>Mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento. Processos ágeis tiram vantagem das mudanças visando vantagem competitiva para o cliente;</i></>
+
+<h3 align="center">3</h3>
+<p align="center"><i>Entregar frequentemente software funcionando, de poucas semanas a poucos meses, com preferência à menor escala de tempo;</i></>
+	
+<h3 align="center">4</h3>
+<p align="center"><i>Pessoas de negócio e desenvolvedores devem trabalhar diariamente em conjunto por todo o projeto;</i></>
+
+<h3 align="center">5</h3>
+<p align="center"><i>Construa projetos em torno de indivíduos motivados. Dê a eles o ambiente e o suporte necessário e confie neles para fazer o trabalho;</i></>
+	
+<h3 align="center">6</h3>
+<p align="center"><i>O método mais eficiente e eficaz de transmitir informações para e entre uma equipe de desenvolvimento é através de conversa face a face;</i></>
+	
+<h3 align="center">7</h3>
+<p align="center"><i>Software funcionando é a medida primária de progresso;</i></>
+	
+<h3 align="center">8</h3>
+<p align="center"><i>Os processos ágeis promovem desenvolvimento sustentável. Os patrocinadores, desenvolvedores e usuários devem ser capazes de manter  um ritmo constante indefinidamente;</i></>
+	
+<h3 align="center">9</h3>
+<p align="center"><i>Contínua atenção à excelência técnica e bom design aumenta a agilidade;</i></>
+	
+<h3 align="center">10</h3>
+<p align="center"><i>Simplicidade (a arte de maximizar a quantidade e trabalho não realizada) é essencial;</i></>
+	
+<h3 align="center">11</h3>
+<p align="center"><i>As melhores  arquiteturas, requisitos e designs emergem de equipes auto-organizáveis;</i></>
+
+<h3 align="center">12</h3>
+<p align="center"><i>Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então refina e ajusta seu comportamento de acordo.</i></>
+	
+
+
 ## Material de Apoio :pencil:
 
-- [Guia Scrum/Scrum Guide](https://www.scrumguides.org/download.html) (ou através do link: [https://github.com/jackson-roberio/scrum-certificate/blob/dev/Scrum-Guide-2017-PT-BR.pdf](Scrum-Guide-2017-PT-BR.pdf) )
+- [Guia Scrum/Scrum Guide](https://www.scrumguides.org/download.html) 
+	- (ou através do link: [https://github.com/jackson-roberio/scrum-certificate/blob/dev/Scrum-Guide-2017-PT-BR.pdf](Scrum-Guide-2017-PT-BR.pdf) )
 
 - [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
