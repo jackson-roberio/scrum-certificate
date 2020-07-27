@@ -26,7 +26,59 @@ Trabalho com metodologias ágeis em projetos de softwares desde 2016.
 
 ## Sobre o Scrum :book:
 
-Scrum é um framework ...
+Atualmente quando fazemos menção a Scrum, é comum o associarmos aos métodos ágeis, processo utilizado mundialmente! O conceito, entretanto, é mais antigo do que o traduzo por seus fundadores: Ken Schwaber e Jeff Sutherland.
+
+O termo "Scrum" foi cunhado por Takeuchi e Nonaka em alusão à formação do Rugby, em que todo o time está junto buscando a posse da bola. Se alguém quebra a formação, todo o time perde. Da mesma forma, quando alguém consegue a posse da bola, o time inteiro é responsável. Ou seja, os indivíduos são menos importantes do que o time em si e desta forma temos a ideia de que o time é importante e responsável também, se um individual erra, todo o time errou, se o time ganha, então todos os individuos foram responsáveis por essa conquista.
+
+Então o Scrum é um framework para desenvolver, entregar e manter produtos complexos. Uma ferramenta fácil de entender, porém difícil de dominar (segundo o próprio guia Scrum). Esses três conceitos definem o Scrum:
+
+	- Leve
+	- Simples de entender
+	- Difícil de dominar
+
+O framework Scrum consiste de times Scrum associados a papéis, eventos, artefatos e regras. Cada componente dentro do framework serve a um propósito específico e é essencial para o uso e sucesso do Scrum.
+
+Há diferença entre gerencia de projeto ágil e Scrum, o Scrum é um conjunto de regras e papeis de devem ser rigorosamento implantados, se uma das regras e implantada de forma distinta da defina no Guia Scrum, então este projeto não aplica o Scrum e sim metodologias de projetos ágeis.
+
+Scrum é fundamentado nas teorias empíricas de controle de processo, ou empirismo. O empirismo afirma que o conhecimento vem da experiência e de tomada de decisões baseadas no que é conhecido. O Scrum emprega uma abordagem iterativa e incremental para aperfeiçoar a previsibilidade e o controle de riscos. Na execução do Scrum esses três tópicos são fundamentais:
+
+	- Transparência
+	- Inspeção
+	- Adaptação
+
+Entre um conjunto de pessoas que são classificadas em :
+
+	- Product Owner (dono do produto)
+	- Scrum Master (Responsável por promover e manter o Scrum como sugere o Guia do Scrum)
+	- Time de Desenvolvimento (profissionais que realizam o trabalho de entrega)
+	
+o Scrum define 4 eventos chaves que auxiliaram o desenvolvimento do projeto, cada evento no Scrum é uma oportunidade de inspecionar e adaptar alguma coisa. Estes eventos são especificamente projetados para permitir uma transparência e inspeção criteriosa, os eventos definidos no Guia Scrum, são:
+
+	- Planning Meeting (Planejamento de sprint)
+	- Daily Scrum (Reunião diária)
+	- Review Meeting(Revisão do sprint)
+	- Retrospective (Retrospectiva do sprint)
+
+**TODO: FALA DO SPRINT** ... O Guia do Scrum define os seguintes arteafatos:
+
+   - **Product Backlog (Backlog do Produto):**
+
+O Backlog do Produto é uma lista ordenada de tudo que é conhecido ser necessário no produto. É a única origem dos requisitos para qualquer mudança a ser feita no produto. O Product Owner é responsável pelo Backlog do Produto, incluindo seu conteúdo,
+disponibilidade e ordenação. O **Backlog do Produto** é incrementado com o passar do tempo, ele nunca é complexo e é natural a sua contante incrementação.
+
+   - **Sprint Backlog (Backlog da Sprint):**
+
+O Backlog da Sprint é um conjunto de itens do Backlog do Produto selecionados para a Sprint, juntamente com o plano para entregar o incremento do produto e atingir o objetivo da Sprint. Uma vez definido o Sprint Backlog, o cliente não poderá mais realizar alteração durante a execução da Sprint.
+
+   - **Incremento:**
+
+Um incremento é uma parte principal inspecionável de trabalho pronto que suporta empirismo no final da sprint. O incremento é um
+passo na direção de uma visão ou de um objetivo. O incremento deve estar na condição de ser utilizado independente do Product Owner decidir por liberá-lo ou não.
+
+
+
+### Manifesto Ágil
+
 
 O Manifesto Ágil se baseia em **Doze(12) Princípios** , sendo eles:
 
