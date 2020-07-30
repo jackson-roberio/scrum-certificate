@@ -128,7 +128,7 @@ O Manifesto Ágil se baseia em **Doze(12) Princípios** , sendo eles:
 - [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
 
-# Casa Certificadoras :thumbsup:
+# Casas Certificadoras :thumbsup:
 
 Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem versões das certificações do framework, visto que os mesmo tinham o objetivo que o Scrum fosse difundido sem dificuldades.
 
