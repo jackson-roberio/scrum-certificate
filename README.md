@@ -83,6 +83,7 @@ Este foi apenas um breve resumo do Scrum segundo minha ótica e experiência com
 
 ### Manifesto Ágil
 
+O Manifesto Ágil foi criado em fevereiro de 2001, quando 17 profissionais, que já praticavam métodos ágeis como XP, DSDM, Scrum, FDD etc, se reuniram nas montanhas nevadas do estado norte-americano de Utah, o que emergiu dessa reunião foi simbólico - *um Manifesto para o Desenvolvimento Ágil de Software* - assinado por todos os participantes.  
 
 O Manifesto Ágil se baseia em **Doze(12) Princípios** , sendo eles:
 
@@ -127,7 +128,7 @@ O Manifesto Ágil se baseia em **Doze(12) Princípios** , sendo eles:
 ## Material de Apoio :pencil:
 
 - [Guia Scrum/Scrum Guide](https://www.scrumguides.org/download.html) 
-	- (ou através do link: [https://github.com/jackson-roberio/scrum-certificate/blob/dev/Scrum-Guide-2017-PT-BR.pdf](Scrum-Guide-2017-PT-BR.pdf) )
+	- (ou através do link: [@jackson-roberio/scrum-certificate/blob/dev/Scrum-Guide-2017-PT-BR.pdf](Scrum-Guide-2017-PT-BR.pdf) )
 
 - [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
