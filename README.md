@@ -26,9 +26,9 @@ Trabalho com metodologias ágeis em projetos de softwares desde 2016.
 
 ## Sobre o Scrum :book:
 
-Quando fazemos menção ao Scrum, é comum o associarmos aos métodos ágeis, processo utilizado mundialmente! O conceito, entretanto, é mais antigo do que o traduzo por seus fundadores: Ken Schwaber e Jeff Sutherland.
+Quando fazemos menção ao Scrum, é comum o associarmos aos métodos ágeis, processo utilizado mundialmente! O conceito, entretanto, é mais antigo do que o traduzo por seus fundadores: *Ken Schwaber* e *Jeff Sutherland*.
 
-O termo "**Scrum**" foi criado por Takeuchi e Nonaka em alusão à formação do Rugby, em que todo o time está junto buscando a posse da bola. Se alguém quebra a formação, todo o time perde. Da mesma forma, quando alguém consegue a posse da bola, o time inteiro é responsável, ou seja, os indivíduos são menos importantes do que o time como um todo, se um individual erra, todo o time errou, se o time ganha, então todos os indivíduos foram responsáveis por essa conquista.
+*Ken* e *Jeff* se basearam em um artigo criado por *Takeuchi* e *Nonaka* que foi publico em 1986 pela revista *Havard Business Review*, com o nome de **The New New Product Development Game** o termo "**Scrum**" foi criado por  em alusão à formação do Rugby, em que todo o time está junto buscando a posse da bola. Se alguém quebra a formação, todo o time perde. Da mesma forma, quando alguém consegue a posse da bola, o time inteiro é responsável, ou seja, os indivíduos são menos importantes do que o time como um todo, se um individual erra, todo o time errou, se o time ganha, então todos os indivíduos foram responsáveis por essa conquista.
 
 Portanto, o Scrum é um framework para desenvolver, entregar e manter produtos complexos. Uma ferramenta fácil de entender, porém difícil de dominar (segundo o próprio guia Scrum). Esses três conceitos definem o Scrum:
 
