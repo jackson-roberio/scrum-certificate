@@ -38,7 +38,7 @@ Portanto, o Scrum é um framework para desenvolver, entregar e manter produtos c
 
 O framework Scrum consiste de times Scrum associados a papéis, eventos, artefatos e regras. Cada componente dentro do framework serve a um propósito específico e é essencial para o uso e sucesso do Scrum.
 
-Há diferença entre gerencia de projeto ágil e Scrum, o Scrum é um conjunto de regras e papeis que devem ser rigorosamento implantados, se uma das regras e implantada de forma distinta da defina no Guia Scrum, então este projeto não aplica o Scrum e sim possivlmente em metodologias de projetos ágeis.
+Há diferença entre gerencia de projeto ágil e Scrum, o Scrum é um conjunto de regras e papeis que devem ser rigorosamento implantados, se uma das regras e implantada de forma distinta da defina no Guia Scrum, então este projeto não aplica o Scrum e sim possivelmente em metodologias de projetos ágeis.
 
 Scrum é fundamentado nas teorias empíricas de controle de processo, ou empirismo. O empirismo afirma que o conhecimento vem da experiência e de tomada de decisões baseadas no que é conhecido. O Scrum emprega uma abordagem iterativa e incremental para aperfeiçoar a previsibilidade e o controle de riscos. Na execução do Scrum esses três tópicos são fundamentais:
 
@@ -59,9 +59,9 @@ o Scrum define 4 eventos chaves que auxiliaram o desenvolvimento do projeto, cad
 	- Review Meeting(Revisão do sprint)
 	- Retrospective (Retrospectiva do sprint)
 
-Esses eventos tomam como base a Sprint Scrum, que é um ciclo de trabalho que contém um *time-boxed* de no máximo um mês (de acordo com o Guia do Scrum), onde algum valor é ascrecentado a um produto em desenvolvimento. Ou seja, ao final dela, o produto precisa ter algum incremento que gere valor aos olhos do cliente e que satisfaça a meta.
+Esses eventos tem como base a **Sprint Scrum**, que é um ciclo de trabalho que contém um *time-boxed* de no máximo um mês (de acordo com o Guia do Scrum), onde algum valor é ascrecentado a um produto em desenvolvimento, ou seja, ao final dela, o produto precisa ter algum incremento que gere valor aos olhos do cliente e que satisfaça a meta.
 
-A Sprint é o coração do Scrum e os eventos são realizados em momentos chaves durante cada Sprint, os eventos também tem seus *time-boxed* bem definidos no Guia do Scrum, e o seu valor é alterado de acordo com o período da Sprint corrente, com exceção do Daily Scrum, que independentemente do período da Sprint a sua duração deverá ser no máximo até 15 minutos a cada dia, cada Sprint tem seu ciclo de vida e após a conclusão do ciclo de vida da Sprint corrente, uma nova deverá ser gerada.
+A Sprint é o coração do Scrum e os eventos são realizados em momentos chaves durante cada Sprint, os eventos também tem seus *time-boxed* bem definidos no Guia do Scrum, e o seu valor é alterado de acordo com o período da Sprint corrente, com exceção do *Daily Scrum*, que independentemente do período da *Sprint* a sua duração deverá ser no máximo até 15 minutos a cada dia, cada *Sprint* tem seu ciclo de vida e após a conclusão do ciclo de vida da *Sprint* corrente, uma nova deverá ser gerada.
 
 O Guia do Scrum define os seguintes arteafatos:
 
