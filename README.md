@@ -171,12 +171,12 @@ Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem
 
    Neste período de pandemia, a CertiProf decidiu oferecer de forma gratuita o exame _Scrum Foundation Professional Certificate - SFPC_, para realizar a prova, o candidato deve [ir para página da CertiProf](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-ptbr) e inserir o seguinte cupom: 
     <p align="center"> **COVID19Support** </p>
-  A prova consiste em 40 perguntas de muitiplas escolhas, precisando o aluno realizar 60% (24 perguntas) ou mais de acertos, em uma hora. O exame pode ser realizado em Português, Espanhol ou Inglês. 
+  A prova consiste em 40 perguntas de muitiplas escolhas, precisando o aluno realizar 70% (28 perguntas) ou mais de acertos, em uma hora. O exame pode ser realizado em Português, Espanhol ou Inglês. 
 	
 	
 ## Extra :heavy_exclamation_mark:
 
-### Avaliação de Competência Linkedin (texte de habilidade profissional)
+### Avaliação de Competência Linkedin (teste de habilidade profissional)
 
 O recurso Avaliações de competências do LinkedIn permite demonstrar seu conhecimento das competências que você adicionou ao seu perfil, concluindo avaliações específicas dessas competências.
 
@@ -214,3 +214,8 @@ Para mais detalhes [clique aqui](https://www.linkedin.com/help/linkedin/answer/9
 Encontrou algum dado desatualizado, incorreto ou quer acrescentar novas referências?
 
 Crie uma new issue pelo link: https://github.com/jackson-roberio/scrum-certificate/issues/new
+
+
+## Agradecimentos :octocat:
+
+   - Obrigado [@everton4292](https://github.com/everton4292) pelas indicações de correção nas issues [#20](https://github.com/jackson-roberio/scrum-certificate/issues/20) e [#19](https://github.com/jackson-roberio/scrum-certificate/issues/19).
