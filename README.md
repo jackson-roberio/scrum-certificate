@@ -218,4 +218,4 @@ Crie uma new issue pelo link: https://github.com/jackson-roberio/scrum-certifica
 
 ## Agradecimentos :octocat:
 
-   - Obrigado [@everton4292](https://github.com/everton4292) pelas indicações de correção nas issues #20 e #19 . 
+   - Obrigado [@everton4292](https://github.com/everton4292) pelas indicações de correção nas issues [#20](https://github.com/jackson-roberio/scrum-certificate/issues/20) e [#19](https://github.com/jackson-roberio/scrum-certificate/issues/19).
