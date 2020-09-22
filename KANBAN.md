@@ -1,4 +1,4 @@
-<h1 align="center"> :scroll: Manual Para Certificação Kanban Foundation - KIKF  </h1> 
+<h1 align="center"> :large_blue_diamond: Manual Para Certificação Kanban Foundation - KIKF  </h1> 
 
 <p align="center"><i>Todos os dados exibidos aqui foram coletados e baseados no certificado Kanban Foundation da Certiprof.</i></p>
 
@@ -15,7 +15,7 @@ o Scrum, os métodos cascata vs ágil e muito mais.
 
 Veja mais em: https://kanbaninstitute.com/
 
-# A Prova:
+# :pencil: A PROVA:
 
 Tempo limite para a prova: 1 hora
 
@@ -35,7 +35,7 @@ Quantidade máximo de tentativas por participante **2**
 [Exame](https://certiprof.com/pages/kanban-foundation-kikf-ptbr)
 
 
-# Possíveis perguntas:
+# :open_file_folder: POSSÍVEIS PERGUNTAS:
 
 ### Scrum define
 
