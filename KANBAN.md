@@ -1,4 +1,4 @@
-<h1 align="center"> :large_blue_diamond: Manual Para Certificação Kanban Foundation - KIKF  </h1> 
+<h1 align="center"> :large_blue_diamond: Manual Para Certificação Kanban Foundation - KIKF :large_blue_diamond:  </h1> 
 
 <p align="center"><i>Todos os dados exibidos aqui foram coletados e baseados no certificado Kanban Foundation da Certiprof.</i></p>
 
@@ -33,6 +33,31 @@ Auto-supervisionado.
 Quantidade máximo de tentativas por participante **2**
 
 [Exame](https://certiprof.com/pages/kanban-foundation-kikf-ptbr)
+
+
+# :books: MATERIAL DE APOIO
+
+[Guia Scrum com Kanban.pdf](material-de-apoio/kanban/Kanban-Guide-for-Scrum-Teams-Portuguese.pdf)
+
+**Vídeos da Certiprof para realização do exame Kanban:**
+
+[Vídeo 1](https://player.vimeo.com/video/450215440)
+
+[Vídeo 2](https://player.vimeo.com/video/450215670)
+
+[Vídeo 3](https://player.vimeo.com/video/450216063)
+
+[Vídeo 4](https://player.vimeo.com/video/450216488)
+
+[Vídeo 5](https://player.vimeo.com/video/450216751)
+
+[Vídeo 6](https://player.vimeo.com/video/450216939)
+
+[Vídeo 7](https://player.vimeo.com/video/450217297)
+
+[Vídeo 8](https://player.vimeo.com/video/450217433)
+
+
 
 
 # :open_file_folder: POSSÍVEIS PERGUNTAS:
@@ -386,9 +411,11 @@ Quantidade máximo de tentativas por participante **2**
 - [ ] método, empurrado
 
 
+## Contribua com este documento :memo:
 
+Encontrou algum dado desatualizado, incorreto ou quer acrescentar novas referências?
 
-
+Crie uma issue através do link: https://github.com/jackson-roberio/scrum-certificate/issues/new
 
 
 
