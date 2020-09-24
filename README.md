@@ -188,7 +188,14 @@ Ao concluir a prova a CertiProf enviará os detalhes do exame por e-mail, lhe in
 Posteriomente a CertiProf dará ciência junto à youracclaim, a qual necessitará revalidar as suas informações (aconselho que faça) e lhe disponiblizará um verificador web da sua certificação, exemplo:
 
 https://www.youracclaim.com/badges/96b35016-4cd7-4a88-a96a-f1bff0a52d3d
-	
+
+
+**KANBAN FOUNDATION - CERTIPROF**
+
+No dia 8 de setembro de 2020 a Certiprof lançou em seu portfólio um conjunto de certificações voltada à metodologia Kanban, na inauguração disponibilizou de forma gratuita o exame para até 500 certificados que foram emitidos totalmente grátis, atualmente essa promoção já se encerrou e só é possível realizar o exame mediante pagamento da inscrição do mesmo.
+
+Para ajudar aos estudantes que tem interesse de conhecer a metodologia Kanban ou que estejam se preparando para realizar o exame da Certiprof (ou de outra casa certificadora), disponibilizei um campo de estudo com esse significado: [ver página instrutiva exame Kanban](KANBAN.md).
+
 	
 ## Extra :heavy_exclamation_mark:
 
