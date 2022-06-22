@@ -203,9 +203,11 @@ Para ajudar aos estudantes que tem interesse de conhecer a metodologia Kanban ou
 
 O recurso Avaliações de competências do LinkedIn permite demonstrar seu conhecimento das competências que você adicionou ao seu perfil, concluindo avaliações específicas dessas competências.
 
-Uma avaliação típica consiste em 15 à 20 questões de múltipla escolha e cada questão testa pelo menos um conceito ou subcompetência, o exame é **gratuito**. As perguntas são cronometradas (você tem 1 minuto e 30 segundos para responder cada pergunta) e devem ser concluídas em uma sessão, não é possível copiar qualquer parte do texto ou tentar burlar o exame por meio externos.
+Uma avaliação típica consiste em 15 questões de múltipla escolha e cada questão testa pelo menos um conceito ou subcompetência, o exame é **gratuito**. As perguntas são cronometradas (você tem 1 minuto e 30 segundos para responder cada pergunta) e devem ser concluídas em uma sessão, não é possível copiar qualquer parte do texto ou tentar burlar o exame por meio externos. Geralmente as questões são em inglês, mas é possível usar o plugin do translate do google para tradução automática.
 
-O exame pode ser realizado várias vezes, porém em um intervalo de 90 dias em cada avaliação (caso for reprovado). Para ser aprovado o candidato deve acertar 70% das perguntas, o exame não indica quais perguntas você errou após a avaliação, apenas informa se você foi aprovado ou não.
+~O exame pode ser realizado várias vezes, porém em um intervalo de 90 dias em cada avaliação (caso for reprovado). Para ser aprovado o candidato deve acertar 70% das perguntas, o exame não indica quais perguntas você errou após a avaliação, apenas informa se você foi aprovado ou não.~ {**ATENÇÃO:** _o linkedin retirou essa mecânica entre o ano de 2021 à 2022, agora é válido apenas a explicação abaixo._}
+
+Você terá duas tentativas por competência para obter o selo, para conquistar o selo é preciso que você fique entre os 30% melhores colocados na avaliação especifica, caso o usuário não tenho sucesso no exame o resultado não será exibido no seu linkedin ou por qualquer outro meio público, então faça o teste sem medo. O próprio linkedin dar uma opção de teste antes da prova concreta, basta clicar em **Praticar** e será disponibilizado duas perguntas sobre a capacitação especifica, vale ressaltar que essas duas perguntas não entrarão no exame, valendo apenas para degustação do que estará por vir.
 
 Se aprovado você recebe um selo destaque na competência especifica, de acordo com a imagem abaixo:
 
@@ -226,8 +228,6 @@ Leia as instruções e se necessário pratique antes.
 <img src="material-de-apoio/instrucoes_avaliacao_linkedin.jpg" height="450px" />
 
 A prática consiste em um simulado idêntico com duas(2) perguntas sobre o tema, que tem a mesma abordagem do exame qualificatório real.
-
-Está é uma novidade do Linkedin e por enquanto, o recurso está disponível somente em inglês, tem poucas especialidades e não está acessível a todos os usuários do LinkedIn.
 
 Para mais detalhes [clique aqui](https://www.linkedin.com/help/linkedin/answer/99586/avaliacoes-de-competencias-do-linkedin?lang=pt).
 
