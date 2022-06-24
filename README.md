@@ -236,7 +236,7 @@ Para mais detalhes [clique aqui](https://www.linkedin.com/help/linkedin/answer/9
 
 Encontrou algum dado desatualizado, incorreto ou quer acrescentar novas referências?
 
-Crie uma new issue pelo link: https://github.com/jackson-roberio/scrum-certificate/issues/new
+[Veja o material de instrução para colaboração](/CONTRIBUTING.md) e ajude a melhorar este documento.
 
 
 ## Agradecimentos :octocat:
