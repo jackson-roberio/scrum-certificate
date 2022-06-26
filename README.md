@@ -181,7 +181,7 @@ Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem
 
    Há várias outras opções de exames na plataforma, neste documento focarei inicialmente apenas nas certificações voltado ao Scrum.
     
-    Os exames são de multiplicas escolhas, com destaque para os exames: *Scrum Foundation Certification*, *Scrum Master Certification* e *Scrum Product Owner*, que estão em português. Para quem tem conhecimento do Espanhol as certificações: Scrum *Developer Certification* e *Scrum Advanced Certification* podem ser realizadas em espanhol.  
+   Os exames são de multiplicas escolhas, com destaque para os exames: *Scrum Foundation Certification*, *Scrum Master Certification* e *Scrum Product Owner*, que estão em português. Para quem tem conhecimento do Espanhol as certificações: Scrum *Developer Certification* e *Scrum Advanced Certification* podem ser realizadas em espanhol.  
 
    Atualmente a CertiProf disponibiliza vários testes de certificações totalmente gratuitos, no âmbito Scrum temos os seguintes exames: _Scrum Foundation Professional Certificate - SFPC_ e _Scrum Master Professional Certification SMPC_.
 
