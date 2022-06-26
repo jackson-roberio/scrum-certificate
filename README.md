@@ -179,19 +179,35 @@ Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem
 	- Scrum Foundation Certification -SFPC
 	- Scrum Advanced Certification - SAPC
 
-   Os exames são de multiplicas escolhas, com destaque para os exames: *Scrum Foundation Certification*, *Scrum Master Certification* e *Scrum Product Owner*, que estão em português. Para quem tem conhecimento do Espanhol as certificações: Scrum *Developer Certification* e *Scrum Advanced Certification* podem ser realizadas em espanhol.  
+   Há várias outras opções de exames na plataforma, neste documento focarei inicialmente apenas nas certificações voltado ao Scrum.
+    
+    Os exames são de multiplicas escolhas, com destaque para os exames: *Scrum Foundation Certification*, *Scrum Master Certification* e *Scrum Product Owner*, que estão em português. Para quem tem conhecimento do Espanhol as certificações: Scrum *Developer Certification* e *Scrum Advanced Certification* podem ser realizadas em espanhol.  
 
-   Todos os exames da CertiProf pode ser realizados duas vezes para cada aquisição, ou seja, você terá duas chances para realizar o exame.
+   Atualmente a CertiProf disponibiliza vários testes de certificações totalmente gratuitos, no âmbito Scrum temos os seguintes exames: _Scrum Foundation Professional Certificate - SFPC_ e _Scrum Master Professional Certification SMPC_.
 
-   Neste período de pandemia, a CertiProf decidiu oferecer de forma gratuita o exame _Scrum Foundation Professional Certificate - SFPC_, para realizar a prova, o candidato deve [ir para página da CertiProf](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-ptbr) e inserir o seguinte cupom: 
-    <p align="center"> **COVID19Support** </p>
-  A prova consiste em 40 perguntas de muitiplas escolhas, precisando o aluno realizar 70% (28 perguntas) ou mais de acertos, em uma hora. O exame pode ser realizado em Português, Espanhol ou Inglês. 
+#### Scrum Foundation Professional Certificate - SFPC
 
-**Pós prova: (Período Covid-19 e Scrum Foundation) **
+	- Custo: Gratuito;
+	- Formato: Múltiplas escolhas;
+	- Questões: 40;
+	- Pontuação para aprovação: É necessário acertar 80% (32/40); 
+	- Idiomas disponíveis: Inglês, Espanhol e Português;
+	- Duração: 60 minutos;
+	- Aplicação: Este exame é realizado, avaliado e supervisionado totalmente online;
+	- [Link do exame](https://certiprof.com/pages/scrum-foundation-certificate-free).
+	
+#### Scrum Master Professional Certification SMPC
 
-Para realização da prova apenas 4 dados são requisitados: Seu nome completo, Seu e-mail, Empresa que trabalha e Seu País.
-
-Ao concluir a prova a CertiProf enviará os detalhes do exame por e-mail, lhe informando a porcentagem de acerto e o certificado que tem esse padrão:
+	- Custo: Gratuito desde 9/11/2021; 
+	- Formato: Múltiplas escolhas;
+	- Questões: 20;
+	- Pontuação para aprovação: É necessário acertar 80% (16/20) ; 
+	- Idiomas disponíveis: Inglês, Espanhol e Português;
+	- Duração: 30 minutos;
+	- Aplicação: Este exame é realizado, avaliado e supervisionado totalmente online.
+	- [Link do exame](https://certiprof.com/pages/scrum-master-smpc-bridge).
+	
+Ao concluir a prova a CertiProf enviará os detalhes do exame por e-mail, lhe informando a porcentagem de acerto e caso seja aprovado o certificado terá esse padrão:
 
 <img src="material-de-apoio/certificado-certiprof-jackson.jpg" width="500px" />
 	
