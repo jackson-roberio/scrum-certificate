@@ -1,5 +1,15 @@
 <h1 align="center"> :scroll: Manual Para Certificação Ágile & Scrum  </h1> 
-<p align="center">Este documento tem por objetivo instruir os usuários do Scrum a se especializar no framework e obter certificação no Scrum. </p>
+<p align="center">
+	Este documento tem por objetivo instruir os usuários do Scrum a se especializar no framework e obter certificação no Scrum. 
+	<br />
+	<a href="#">
+		<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+		<img src="https://visitor-badge.laobi.icu/badge?page_id=jackson-roberio.scrum-certificate" />
+		<img src="https://img.shields.io/github/issues/jackson-roberio/scrum-certificate" />
+		<img src="https://img.shields.io/github/stars/jackson-roberio/scrum-certificate" />
+		<img src="https://img.shields.io/github/license/jackson-roberio/scrum-certificate" />
+	</a>
+</p>
 
 
 # Sobre Autor :bowtie:
