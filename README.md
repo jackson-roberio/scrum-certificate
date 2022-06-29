@@ -1,5 +1,15 @@
 <h1 align="center"> :scroll: Manual Para Certificação Ágile & Scrum  </h1> 
-<p align="center">Este documento tem por objetivo instruir os usuários do Scrum a se especializar no framework e obter certificação no Scrum. </p>
+<p align="center">
+	Este documento tem por objetivo instruir os usuários do Scrum a se especializar no framework e obter certificação no Scrum. 
+	<br />
+	<a href="#">
+		<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+		<img src="https://visitor-badge.laobi.icu/badge?page_id=jackson-roberio.scrum-certificate" />
+		<img src="https://img.shields.io/github/issues/jackson-roberio/scrum-certificate" />
+		<img src="https://img.shields.io/github/stars/jackson-roberio/scrum-certificate" />
+		<img src="https://img.shields.io/github/license/jackson-roberio/scrum-certificate" />
+	</a>
+</p>
 
 
 # Sobre Autor :bowtie:
@@ -169,19 +179,35 @@ Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem
 	- Scrum Foundation Certification -SFPC
 	- Scrum Advanced Certification - SAPC
 
+   Há várias outras opções de exames na plataforma, neste documento focarei inicialmente apenas nas certificações voltado ao Scrum.
+    
    Os exames são de multiplicas escolhas, com destaque para os exames: *Scrum Foundation Certification*, *Scrum Master Certification* e *Scrum Product Owner*, que estão em português. Para quem tem conhecimento do Espanhol as certificações: Scrum *Developer Certification* e *Scrum Advanced Certification* podem ser realizadas em espanhol.  
 
-   Todos os exames da CertiProf pode ser realizados duas vezes para cada aquisição, ou seja, você terá duas chances para realizar o exame.
+   Atualmente a CertiProf disponibiliza vários testes de certificações totalmente gratuitos, no âmbito Scrum temos os seguintes exames: _Scrum Foundation Professional Certificate - SFPC_ e _Scrum Master Professional Certification SMPC_.
 
-   Neste período de pandemia, a CertiProf decidiu oferecer de forma gratuita o exame _Scrum Foundation Professional Certificate - SFPC_, para realizar a prova, o candidato deve [ir para página da CertiProf](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-ptbr) e inserir o seguinte cupom: 
-    <p align="center"> **COVID19Support** </p>
-  A prova consiste em 40 perguntas de muitiplas escolhas, precisando o aluno realizar 70% (28 perguntas) ou mais de acertos, em uma hora. O exame pode ser realizado em Português, Espanhol ou Inglês. 
+#### Scrum Foundation Professional Certificate - SFPC
 
-**Pós prova: (Período Covid-19 e Scrum Foundation) **
+	- Custo: Gratuito;
+	- Formato: Múltiplas escolhas;
+	- Questões: 40;
+	- Pontuação para aprovação: É necessário acertar 80% (32/40); 
+	- Idiomas disponíveis: Inglês, Espanhol e Português;
+	- Duração: 60 minutos;
+	- Aplicação: Este exame é realizado, avaliado e supervisionado totalmente online;
+	- [Link do exame](https://certiprof.com/pages/scrum-foundation-certificate-free).
+	
+#### Scrum Master Professional Certification SMPC
 
-Para realização da prova apenas 4 dados são requisitados: Seu nome completo, Seu e-mail, Empresa que trabalha e Seu País.
-
-Ao concluir a prova a CertiProf enviará os detalhes do exame por e-mail, lhe informando a porcentagem de acerto e o certificado que tem esse padrão:
+	- Custo: Gratuito desde 9/11/2021; 
+	- Formato: Múltiplas escolhas;
+	- Questões: 20;
+	- Pontuação para aprovação: É necessário acertar 80% (16/20) ; 
+	- Idiomas disponíveis: Inglês, Espanhol e Português;
+	- Duração: 30 minutos;
+	- Aplicação: Este exame é realizado, avaliado e supervisionado totalmente online.
+	- [Link do exame](https://certiprof.com/pages/scrum-master-smpc-bridge).
+	
+Ao concluir a prova a CertiProf enviará os detalhes do exame por e-mail, lhe informando a porcentagem de acerto e caso seja aprovado o certificado terá esse padrão:
 
 <img src="material-de-apoio/certificado-certiprof-jackson.jpg" width="500px" />
 	
@@ -203,9 +229,11 @@ Para ajudar aos estudantes que tem interesse de conhecer a metodologia Kanban ou
 
 O recurso Avaliações de competências do LinkedIn permite demonstrar seu conhecimento das competências que você adicionou ao seu perfil, concluindo avaliações específicas dessas competências.
 
-Uma avaliação típica consiste em 15 à 20 questões de múltipla escolha e cada questão testa pelo menos um conceito ou subcompetência, o exame é **gratuito**. As perguntas são cronometradas (você tem 1 minuto e 30 segundos para responder cada pergunta) e devem ser concluídas em uma sessão, não é possível copiar qualquer parte do texto ou tentar burlar o exame por meio externos.
+Uma avaliação típica consiste em 15 questões de múltipla escolha e cada questão testa pelo menos um conceito ou subcompetência, o exame é **gratuito**. As perguntas são cronometradas (você tem 1 minuto e 30 segundos para responder cada pergunta) e devem ser concluídas em uma sessão, não é possível copiar qualquer parte do texto ou tentar burlar o exame por meio externos. Geralmente as questões são em inglês, mas é possível usar o plugin do translate do google para tradução automática.
 
-O exame pode ser realizado várias vezes, porém em um intervalo de 90 dias em cada avaliação (caso for reprovado). Para ser aprovado o candidato deve acertar 70% das perguntas, o exame não indica quais perguntas você errou após a avaliação, apenas informa se você foi aprovado ou não.
+~O exame pode ser realizado várias vezes, porém em um intervalo de 90 dias em cada avaliação (caso for reprovado). Para ser aprovado o candidato deve acertar 70% das perguntas, o exame não indica quais perguntas você errou após a avaliação, apenas informa se você foi aprovado ou não.~ {**ATENÇÃO:** _o linkedin retirou essa mecânica entre o ano de 2021 à 2022, agora é válido apenas a explicação abaixo._}
+
+Você terá duas tentativas por competência para obter o selo, para conquistar o selo é preciso que você fique entre os 30% melhores colocados na avaliação especifica, caso o usuário não tenho sucesso no exame o resultado não será exibido no seu linkedin ou por qualquer outro meio público, então faça o teste sem medo. O próprio linkedin dar uma opção de teste antes da prova concreta, basta clicar em **Praticar** e será disponibilizado duas perguntas sobre a capacitação especifica, vale ressaltar que essas duas perguntas não entrarão no exame, valendo apenas para degustação do que estará por vir.
 
 Se aprovado você recebe um selo destaque na competência especifica, de acordo com a imagem abaixo:
 
@@ -227,8 +255,6 @@ Leia as instruções e se necessário pratique antes.
 
 A prática consiste em um simulado idêntico com duas(2) perguntas sobre o tema, que tem a mesma abordagem do exame qualificatório real.
 
-Está é uma novidade do Linkedin e por enquanto, o recurso está disponível somente em inglês, tem poucas especialidades e não está acessível a todos os usuários do LinkedIn.
-
 Para mais detalhes [clique aqui](https://www.linkedin.com/help/linkedin/answer/99586/avaliacoes-de-competencias-do-linkedin?lang=pt).
 
 
@@ -236,7 +262,7 @@ Para mais detalhes [clique aqui](https://www.linkedin.com/help/linkedin/answer/9
 
 Encontrou algum dado desatualizado, incorreto ou quer acrescentar novas referências?
 
-Crie uma new issue pelo link: https://github.com/jackson-roberio/scrum-certificate/issues/new
+[Veja o material de instrução para colaboração](/CONTRIBUTING.md) e ajude a melhorar este documento.
 
 
 ## Agradecimentos :octocat:
