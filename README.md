@@ -171,6 +171,12 @@ Scrum Master Certified $450.00
 
 ## Exin
 
+$ 215.00 (VAT included)
+
+EXIN Agile Scrum Foundation
+
+É possível realizar no Brasil
+
 [Site](https://www.exin.com)
 
 ## CertiProf
