@@ -154,11 +154,22 @@ Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem
 
 ## Scrum.org
 
+Prove Your Knowledge of Scaling Scrum and the Nexus Framework
+
+Detalhes da certificação
+- US$ 250 por tentativa
+- Pontuação de aprovação: 85%
+- Limite de tempo: 60 minutos
+- Número de perguntas: 40
+- Formato: Múltipla Escolha, Múltipla Resposta, Verdadeiro/Falso
+- Avaliação prática: Nexus aberto
+- As senhas não têm data de validade, mas são válidas apenas para uma tentativa
+- Certificação vitalícia - não é necessária taxa de renovação anual
+
 [Site](https://www.scrum.org)
 
-
 ## SCRUMstudy
-Scrum Master Certified $450.00 (aproximadamente R$ 2.330,91)
+Scrum Master Certified $450.00 (aproximadamente - R$ 2.330,91)
 
  - Multiple choice
  - 100 questions per exam
@@ -171,7 +182,7 @@ Scrum Master Certified $450.00 (aproximadamente R$ 2.330,91)
 
 ## Exin
 
-$ 215.00 (aproximadamente R$ 1.113,72) (VAT included)
+$ 215.00 (aproximadamente - R$ 1.113,72) (VAT included)
 
 EXIN Agile Scrum Foundation
 
