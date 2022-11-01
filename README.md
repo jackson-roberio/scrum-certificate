@@ -150,6 +150,15 @@ Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem
 
 ## ScrumAlliance
 
+Certificado Scrum Professional - Desenvolvedor
+
+Desenvolvedores Certified Scrum Professional ® desafiam suas equipes a melhorar a forma como o Scrum e os princípios ágeis são aplicados. Eles demonstraram experiência, treinamento documentado e conhecimento comprovado em scrum. A certificação CSP-D é exclusiva para desenvolvedores e distinta de um Certified Scrum Professional - ScrumMaster (CSP - SM) ou Certified Scrum Professional - Product Owner (CSP - PO).
+
+- Possuir uma certificação ativa de Advanced Certified Scrum Developer (A-CSD) com Scrum Alliance.
+- Participe de uma oferta educacional CSP-D para obter técnicas que se expandem para permitir uma cultura de excelência técnica, catalisando organizações de tecnologia de alto desempenho, facilitando ambientes para um entendimento compartilhado, orientando equipes de scrum a aprender e crescer e desenvolver o self como um ágil líder.
+- Conclua com êxito todos os componentes projetados por educadores de uma oferta educacional aprovada. Isso pode incluir trabalho pré ou pós-curso conforme considerado necessário pelo seu educador aprovado para completar os objetivos de aprendizagem.
+- Valide pelo menos 24 meses de experiência de trabalho específica para a função de desenvolvedor/membro da equipe Scrum (nos últimos cinco anos).
+
 [Site](https://www.scrumalliance.org)
 
 ## Scrum.org
