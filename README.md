@@ -158,7 +158,7 @@ Os desenvolvedores do Scrum não impediram que outras empresas disponibilizassem
 
 
 ## SCRUMstudy
-Scrum Master Certified $450.00
+Scrum Master Certified $450.00 (aproximadamente R$ 2.330,91)
 
  - Multiple choice
  - 100 questions per exam
